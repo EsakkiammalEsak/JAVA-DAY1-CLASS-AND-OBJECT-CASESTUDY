@@ -13,11 +13,7 @@ public class Main {
 				int number1 = Integer.parseInt(br.readLine());
 				int number2 = Integer.parseInt(br.readLine());
 				Addition add = new Addition(number1,number2);
-				Addition add1=new Addition();
-				//add.addition(number1,number2);
-				//add.display();
-						
-
+				
 	}
 
 }
